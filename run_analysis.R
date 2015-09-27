@@ -3,7 +3,6 @@
 # load the reshape2 package (will be used in STEP 5)
 library(reshape2)
 
-
 ## STEP 1: Merges the training and the test sets to create one data set
 
 # read data into data frames
